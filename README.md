@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @abhaysingla05
-- 👀 I’m interested in development ...
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Abhay (abhaysingla05)
 
-<!---
-abhaysingla05/abhaysingla05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer with 1 year of hands-on experience building and shipping production-ready mobile and web applications. I work primarily with React Native, React, TypeScript, and Node.js, and enjoy turning product ideas into scalable, maintainable systems.
+
+Currently exploring Java, backend architecture, and system design — because frontend is fun, but understanding the whole system is better.
+
+I like clean architecture, reusable components, and code that future-me won’t hate.
+
+Open to collaborating on full-stack, mobile, or AI-driven products.
+
+Reach me at:
+Email: abhaysingla05@gmail.com  
+LinkedIn: https://www.linkedin.com/in/abhay-singla/
