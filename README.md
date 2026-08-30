@@ -5,6 +5,8 @@ Software Engineer with 1 year of hands-on experience building and shipping produ
 Currently exploring Java, backend architecture, and system design — because frontend is fun, but understanding the whole system is better.
 
 I like clean architecture, reusable components, and code that future-me won’t hate.
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=abhaysingla05&label=Profile%20views&color=6c63c4&style=flat)
 
 
